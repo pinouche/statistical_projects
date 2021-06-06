@@ -1,1 +1,5 @@
-Collection of statistical projects (web scrapping annd basketball analysis and populations estimations (modern slaves and animals))
+Collection of statistical projects:
+
+(i) Baketball analysis using a personal scrapped database
+(ii) Estimating population of modern slaves
+(ii) Estimating populations of animals in the wild
