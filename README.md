@@ -1,6 +1,6 @@
 Collection of statistical projects:
 
-(i) Baketball analysis using a personal scrapped database
+(i) Baketball analysis using a personal scrapped database <br />
 (ii) Estimating the effect of grazing sheep on the productivity of oak oppice
 (iii) Comparing detectors for small X-rays beams
 (iv) Estimating populations of animals in the wild (bachelors dissertation)
